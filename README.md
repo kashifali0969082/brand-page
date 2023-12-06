@@ -1,6 +1,6 @@
 
 
-![webpage](https://github.com/kashifali0969082/brand-page/assets/144449902/fc6ae7dd-e1a9-4eee-9db5-496ad17183c1)
+![screencapture-localhost-3000-2023-12-06-18_39_08](https://github.com/kashifali0969082/brand-page/assets/144449902/0e1c7a9c-c6b8-466f-8862-c7a9beda45c7)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
