@@ -1,4 +1,4 @@
-![Uploading webpage.png…]()
+
 
 ![webpage](https://github.com/kashifali0969082/brand-page/assets/144449902/fc6ae7dd-e1a9-4eee-9db5-496ad17183c1)
 # Getting Started with Create React App
